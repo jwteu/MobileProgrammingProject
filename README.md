@@ -1,2 +1,0 @@
-# MobileProgrammingProject
-Mobile Programming 
